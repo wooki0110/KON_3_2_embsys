@@ -26,4 +26,6 @@
 - 정확도가 높지 않음
 
 (3) python 파일 사용
-- 외부 명령으로 모든 device driver, 
+- 외부 명령으로 모든 device driver, socket 통신 한 파일에서 동작
+- socket 통신은 3개 사용
+- rsapberry 4 to raspberry 0 & raspberry 0 to pc
